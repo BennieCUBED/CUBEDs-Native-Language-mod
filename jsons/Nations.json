@@ -53,10 +53,10 @@
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
 		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
 
-		"neutralHello": "Greetings!",
-		"hateHello": "What?",
+		"neutralHello": "Χαίρετε!",
+		"hateHello": "Ορίστε?",
 
-		"tradeRequest": "My friend, does this seem reasonable to you?",
+		"tradeRequest": "Φίλε μού, σου φαίνεται λογικό αυτό?",
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
