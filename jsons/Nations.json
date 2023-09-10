@@ -169,9 +169,9 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "You've fallen into my trap. I'll bury you.",
-		"defeated": "I congratulate you for your victory.",
+        "declaringWar": "Vous nous dérangez, préparez-vous à la guerre.",
+		"attacked": "Vous êtes tombés dans mon piège. Je vous enterrerai.",
+		"defeated": "Je vous félicite pour votre victoire.",
 		"introduction": "Welcome. I'm Napoleon, of France; the smartest military man in world history.",
 		"neutralHello": "Hello.",
 		"hateHello": "It's you.",
