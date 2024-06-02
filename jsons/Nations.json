@@ -405,9 +405,9 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
-		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
-		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+        "declaringWar": "Süregelen küstah tavrınız, bunun farkında olmamanız ve üstünlük çabanız bizi savaşa sürükledi.",
+		"attacked": "Güzel. Dünya benim ordularımın tartışılmaz yüceliğiyle İmparatorluğumun şanına tanık olacak.",
+		"defeated": "Harabe! Harabe! İstanbul, İrem'in Sütunları olacak, yalnızca duygulu şairlerce hatırlanacak.",
 		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
 		"neutralHello": "Greetings!",
 		"hateHello": "What do you want?",
