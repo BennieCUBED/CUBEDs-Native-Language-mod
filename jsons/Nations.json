@@ -345,13 +345,13 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
-		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
-		"defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind.",
-		"introduction": "Hello, I am Mohandas Gandhi. My people call me Bapu, but please, call me friend.",
+        "declaringWar": "मुझे अभी रिपोर्ट मिली है कि बड़ी संख्या में मेरे सैनिक आपकी सीमा पार कर गए हैं। ",
+		"attacked": "हिंसा से बचने के मेरे प्रयास विफल हो गए हैं। आँख के बदले आँख लेने से दुनिया अंधी हो जाएगी। ",
+		"defeated": "आप मुझे जंजीरों में जकड़ सकते हैं, आप मुझे यातना दे सकते हैं, आप इस शरीर को नष्ट भी कर सकते हैं, लेकिन आप मेरे मन को कभी कैद नहीं कर सकते। ",
+		"introduction": "नमस्ते, मैं मोहनदास गांधी हूँ। मेरे लोग मुझे बापू कहते हैं, लेकिन कृपया मुझे मित्र कहें। ",
 		"neutralHello": "I wish you peace.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "My friend, are you interested in this arrangement?",
+		"tradeRequest": "मेरा दोस्त, are you interested in this arrangement?",
 
         "outerColor": [14, 113, 4],
         "innerColor": [255, 163, 71],
